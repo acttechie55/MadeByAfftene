@@ -23,6 +23,7 @@ $(document).ready(function () {
 	$('.inc-content').clone().appendTo('.2nd-content');
 	$('.grit-content').clone().appendTo('.3rd-content');
 	$('.refill-content').clone().appendTo('.4th-content');	
+    $('.lawn-content').clone().appendTo('.5th-content');	
 	
 	/*Education Slide - DO NOT CHANGE*/
 	$('.edu-resp').clone().appendTo('.education-section').css({ "position": "absolute", "right": "2em"}).addClass('inner');

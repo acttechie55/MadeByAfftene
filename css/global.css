@@ -41,13 +41,13 @@ body, html {
 	overflow: hidden;
 }
 
-.yes-overflow {
+/*.yes-overflow {
 	overflow: visible;
-}
+}*/
 
-.scroll-overflow {
+/*.scroll-overflow {
 	overflow: scroll;
-}
+}*/
 .section-title-flex {
 	flex: .10;
 }
